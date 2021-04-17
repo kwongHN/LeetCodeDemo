@@ -1,0 +1,7 @@
+H:\Project\LeetCodeDemo\LeetCodeDemo\bin\Debug\LeetCodeDemo.exe.config
+H:\Project\LeetCodeDemo\LeetCodeDemo\bin\Debug\LeetCodeDemo.exe
+H:\Project\LeetCodeDemo\LeetCodeDemo\bin\Debug\LeetCodeDemo.pdb
+H:\Project\LeetCodeDemo\LeetCodeDemo\obj\Debug\LeetCodeDemo.csprojAssemblyReference.cache
+H:\Project\LeetCodeDemo\LeetCodeDemo\obj\Debug\LeetCodeDemo.csproj.CoreCompileInputs.cache
+H:\Project\LeetCodeDemo\LeetCodeDemo\obj\Debug\LeetCodeDemo.exe
+H:\Project\LeetCodeDemo\LeetCodeDemo\obj\Debug\LeetCodeDemo.pdb
