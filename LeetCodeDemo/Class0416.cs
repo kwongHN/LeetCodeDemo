@@ -87,8 +87,8 @@ namespace LeetCodeDemo
                 time += Math.Max(Math.Abs(points[i][0] - points[i - 1][0]), Math.Abs(points[i][1] - points[i - 1][1]));
             }
             return time;
-
-            return count;
+            //这是今天注释的0417
+            //return count;
 
         }
     }
